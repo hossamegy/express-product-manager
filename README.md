@@ -40,11 +40,11 @@ To run this project locally, follow these steps:
    DATABASE_URL=mongodb://your-mongo-db-url
    PORT=3000
    ```
-      Replace your-mongo-db-url with your actual MongoDB connection string.
+   -Replace your-mongo-db-url with your actual MongoDB connection string.
    
    4.Start the application:
    
    ```bash
    npm start
    ```
-      The server will start and be available at http://127.0.0.1:3000.
+   -The server will start and be available at http://127.0.0.1:3000.
