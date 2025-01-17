@@ -30,21 +30,21 @@ To run this project locally, follow these steps:
    
 2.Install dependencies:
 
-```bash
-npm install
-```
-
-3.Create a .env file in the root directory and add your MongoDB connection URL:
-
-```bash
-DATABASE_URL=mongodb://your-mongo-db-url
-PORT=3000
-```
-   Replace your-mongo-db-url with your actual MongoDB connection string.
-
-4.Start the application:
-
-```bash
-npm start
-```
-   The server will start and be available at http://127.0.0.1:3000.
+   ```bash
+   npm install
+   ```
+   
+   3.Create a .env file in the root directory and add your MongoDB connection URL:
+   
+   ```bash
+   DATABASE_URL=mongodb://your-mongo-db-url
+   PORT=3000
+   ```
+      Replace your-mongo-db-url with your actual MongoDB connection string.
+   
+   4.Start the application:
+   
+   ```bash
+   npm start
+   ```
+      The server will start and be available at http://127.0.0.1:3000.
